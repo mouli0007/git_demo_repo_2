@@ -1,11 +1,9 @@
-# demo 2
+# demo_ 3
 
-Some text again 
-
-## Local Development !!!
+GIT AND GITHUB 
 
 
-1 Open index.html in your browser.
+BRANCHING IS IMPORTANT 
 
 ## again branches topics 
 
@@ -15,4 +13,4 @@ Some text again
 
 alright learn something new about the tech everyday !
 
-## HOCUS FOCUS MAN !
+
